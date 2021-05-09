@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.CodeLab1Final.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../../:\Users\guisa\Documents\Code Lab 1\MyHomework\jag10002-HW-Final\CodeLab1Final\.idea\.idea.CodeLab1Final\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
